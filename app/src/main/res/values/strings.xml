@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Takip Kodu Gönderici</string>
+
+    <string-array name="order_types">
+        <item>Cezaevine Mektup</item>
+        <item>Sevgiliye Mektup</item>
+        <item>Askere Mektup</item>
+        <item>Normal Mektup</item>
+        <item>Gizli Mektup</item>
+    </string-array>
+</resources>

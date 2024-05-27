@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:layout_marginTop="8dp">
+
+    <TextView
+        android:id="@+id/orderId"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/customer_name"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/phone_number"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/order_price"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/letter_name"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/order_date"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/customerId"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/date_for_transport"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hello Title"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/track_id"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text=""
+        android:textSize="15dp"/>
+
+</LinearLayout>
